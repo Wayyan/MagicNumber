@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796b</color>
+    <color name="colorAccent">#000</color>
+    <color name="txt_card">#4254ba</color>
+    <color name="txt_r_0">#1b5e20</color>
+    <color name="txt_r_1">#1b5e20</color>
+    <color name="txt_r_2">#1b5e20</color>
+    <color name="txt_r_3">#1b5e20</color>
+    <color name="txt_r_4">#1b5e20</color>
+    <color name="txt_r_5">#1b5e20</color>
+    <color name="txt_r_6">#1b5e20</color>
+    <color name="txt_r_7">#1b5e20</color>
+    <color name="txt_r_8">#1b5e20</color>
+    <color name="txt_r_9">#1b5e20</color>
+    <color name="txt_stroke_color">#000</color>
+
+</resources>
